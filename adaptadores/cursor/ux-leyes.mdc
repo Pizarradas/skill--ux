@@ -1,0 +1,13 @@
+---
+description: Criterios de UX basados en evidencia (leyes de UX) para diseñar, revisar y escribir código de interfaz
+globs: ["**/*.html", "**/*.css", "**/*.scss", "**/*.jsx", "**/*.tsx", "**/*.vue", "**/*.svelte"]
+alwaysApply: false
+---
+
+Cuando trabajes en interfaz (componentes, formularios, navegación, estados de carga, textos de UI):
+
+1. Sigue `ux-skill/AGENTS.md` (rol, reglas R1–R10, formato de hallazgos).
+2. Para revisar código usa `ux-skill/04-procesos/revisar-codigo-ui.md`.
+3. Consulta la ficha de cada ley que cites en `ux-skill/01-leyes/` y la guía del contexto en `ux-skill/03-aplicacion/`.
+4. Nunca empeores la accesibilidad (WCAG 2.2): ver `ux-skill/06-etica-accesibilidad/accesibilidad.md`.
+5. No implementes patrones oscuros: ver `ux-skill/06-etica-accesibilidad/etica-y-patrones-oscuros.md`.

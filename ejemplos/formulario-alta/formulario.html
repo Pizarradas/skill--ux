@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FitPlus · Alta de socio</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; color: #333; }
+  header { background: #222; color: #fff; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; }
+  .timer { background: #e00; color: #fff; padding: 6px 12px; font-weight: bold; animation: blink 1s infinite; }
+  @keyframes blink { 50% { opacity: .3; } }
+  main { display: flex; gap: 24px; max-width: 1100px; margin: 24px auto; }
+  form { background: #fff; padding: 24px; flex: 3; }
+  aside { flex: 1; }
+  .promo { background: linear-gradient(135deg,#ff0,#f80); border: 3px dashed #c00; padding: 16px; font-size: 13px; text-align: center; }
+  .promo b { font-size: 18px; display: block; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 14px; }
+  input, select { width: 100%; padding: 6px; border: 1px solid #ddd; font-size: 13px; box-sizing: border-box; }
+  input::placeholder { color: #bbb; }
+  .req { color: red; }
+  h2 { font-size: 15px; margin: 14px 0; color: #999; font-weight: normal; }
+  .err-top { display: none; background: #fdd; color: #900; padding: 8px; margin-bottom: 12px; }
+  .small { font-size: 10px; color: #aaa; }
+  .chk input { width: 12px; height: 12px; }
+  .buttons { margin-top: 48px; text-align: right; }
+  .btn-reset { background: #0a7; color: #fff; border: 0; padding: 14px 32px; font-size: 16px; }
+  .btn-submit { background: #ccc; color: #666; border: 0; padding: 4px 10px; font-size: 12px; }
+  a.nothanks { font-size: 10px; color: #aaa; }
+</style>
+</head>
+<body>
+<header>
+  <strong>FitPlus</strong>
+  <span class="timer">¡OFERTA EXPIRA EN <span id="t">05:00</span>!</span>
+</header>
+
+<main>
+<form id="f" novalidate>
+  <div class="err-top" id="errTop">Hay errores en el formulario. Revise los datos.</div>
+
+  <h2>Datos</h2>
+  <div class="grid">
+    <input type="text" id="nombre" placeholder="Nombre *">
+    <input type="text" id="apellidos" placeholder="Apellidos *">
+    <input type="text" id="email" placeholder="Email *">
+    <input type="text" id="email2" placeholder="Repita el email *">
+    <input type="text" id="tel" placeholder="Teléfono (9 dígitos) *" pattern="[0-9]{9}">
+    <input type="text" id="fax" placeholder="Fax">
+    <input type="text" id="nac" placeholder="Fecha nacimiento DD/MM/AAAA *" pattern="\d{2}/\d{2}/\d{4}">
+    <input type="text" id="dni" placeholder="DNI *">
+    <input type="text" id="empresa" placeholder="Empresa">
+    <input type="text" id="cargo" placeholder="Cargo en la empresa">
+  </div>
+
+  <h2>Dirección</h2>
+  <div class="grid">
+    <input type="text" id="dir" placeholder="Dirección *">
+    <input type="text" id="cp" placeholder="Código postal *">
+    <input type="text" id="ciudad" placeholder="Ciudad *">
+    <select id="prov"><option value="">Provincia *</option><option>A Coruña</option><option>Álava</option><option>Albacete</option><option>Madrid</option><option>Barcelona</option><option>…</option></select>
+    <select id="pais"><option value="">País *</option><option>Afganistán</option><option>Albania</option><option>Alemania</option><option>…</option><option>España</option><option>…</option></select>
+  </div>
+
+  <h2>Plan</h2>
+  <select id="plan">
+    <option value="">Seleccione plan *</option>
+    <option>Básico Mañanas 12m</option><option>Básico Mañanas 6m</option><option>Básico Total 12m</option>
+    <option>Básico Total 6m</option><option>Plus 12m</option><option>Plus 6m</option>
+    <option>Premium 12m</option><option>Premium 6m</option><option>Premium Family 12m</option>
+  </select>
+  <p class="small">Precios y condiciones en fitplus.es/condiciones. Permanencia mínima según plan. Renovación automática.</p>
+
+  <h2>Acceso</h2>
+  <div class="grid">
+    <input type="password" id="pw" placeholder="Contraseña *">
+    <input type="password" id="pw2" placeholder="Repita contraseña *">
+  </div>
+
+  <h2>Verificación</h2>
+  <label>¿Cuánto es 7 × 8 + 3? <span class="req">*</span></label>
+  <input type="text" id="captcha" style="width:80px">
+
+  <h2>Otros</h2>
+  <select id="como"><option>¿Cómo nos conoció?</option><option>Redes</option><option>Amigo</option><option>Otro</option></select>
+  <div class="chk">
+    <label><input type="checkbox" id="priv"> Acepto la política de privacidad <span class="req">*</span></label><br>
+    <label><input type="checkbox" checked> Quiero recibir ofertas de FitPlus y sus partners</label><br>
+    <label><input type="checkbox" checked> Acepto ceder mis datos a terceros con fines comerciales</label><br>
+    <label><input type="checkbox" checked> Añadir seguro de lesiones (+4,99 €/mes)</label>
+  </div>
+  <a href="#" class="nothanks">No gracias, no me interesa cuidar mi salud</a>
+
+  <div class="buttons">
+    <button type="reset" class="btn-reset">Borrar formulario</button>
+    <button type="submit" class="btn-submit">enviar</button>
+  </div>
+</form>
+
+<aside>
+  <div class="promo">
+    <b>¡IMPORTANTE!</b>
+    Para activar tu alta necesitarás presentar tu DNI original y un justificante bancario en recepción en los 7 días siguientes.
+  </div>
+</aside>
+</main>
+
+<script>
+  // Cuenta atrás: se reinicia en cada visita
+  let s = 300; setInterval(() => { s = s > 0 ? s - 1 : 300;
+    document.getElementById('t').textContent = String(Math.floor(s/60)).padStart(2,'0') + ':' + String(s%60).padStart(2,'0'); }, 1000);
+
+  document.getElementById('f').addEventListener('submit', async e => {
+    e.preventDefault();
+    const tel = document.getElementById('tel').value;
+    const nac = document.getElementById('nac').value;
+    const ok = /^[0-9]{9}$/.test(tel) && /^\d{2}\/\d{2}\/\d{4}$/.test(nac)
+      && document.getElementById('email').value === document.getElementById('email2').value
+      && document.getElementById('pw').value.length >= 10 && /[A-Z]/.test(document.getElementById('pw').value)
+      && /[^a-zA-Z0-9]/.test(document.getElementById('pw').value)
+      && document.getElementById('captcha').value === '59'
+      && document.getElementById('priv').checked;
+    if (!ok) {
+      document.getElementById('errTop').style.display = 'block';
+      document.getElementById('pw').value = ''; document.getElementById('pw2').value = '';
+      document.getElementById('captcha').value = '';
+      return;
+    }
+    // Llamada al servidor (tarda 4–6 s), sin indicador
+    await new Promise(r => setTimeout(r, 5000));
+    alert('OK');
+    document.getElementById('f').reset();
+    location.href = '/';
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!-- Archivo generado por herramientas/generar_indices.py. No editar a mano. -->
+
+# Bibliografía primaria
+
+Fuentes primarias citadas en las fichas (extraídas automáticamente de sus secciones *Fuentes → Primarias*), en orden alfabético, con las leyes que las citan. El estado de verificación de cada referencia se indica en la ficha correspondiente. Fuentes enlazadas por Laws of UX: `08-fuentes/fuentes-por-ley.md`.
+
+- Accot, J. y Zhai, S. (1997). Beyond Fitts' law: models for trajectory-based HCI tasks. *CHI '97*, 295–302. — *ACC-01*
+- Alaybek, B., Dalal, R. S. et al. (2022). All's well that ends (and peaks) well? A meta-analysis of the peak-end rule and duration neglect. *Organizational Behavior and Human Decision Processes*, 170. — *MOT-05*
+- Ariely, D. y Wertenbroch, K. (2002). Procrastination, deadlines, and performance: self-control by precommitment. *Psychological Science*, 13(3), 219–224. — *MOT-04*
+- Ashby, F. G., Isen, A. M., & Turken, A. U. (1999). A neuropsychological theory of positive affect and its influence on cognition. *Psychological Review*, 106(3), 529–550. — *DEC-04*
+- Atkinson, R. C. & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. *Psychology of Learning and Motivation*, 89–195. https://doi.org/10.1016/S0079-7421(08)60422-3 — *MEM-02*
+- Avrahami, D. (2015). The Effect of Edge Targets on Touch Performance. *CHI '15*, 1837–1846. doi:10.1145/2702123.2702439 (leído vía citas secundarias) — *ACC-01*
+- Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423. https://doi.org/10.1016/S1364-6613(00)01538-2 — *MEM-02*
+- Baddeley, A. D. & Hitch, G. (1974). Working memory. *Psychology of Learning and Motivation*, 47–89. https://doi.org/10.1016/S0079-7421(08)60452-1 — *MEM-02*
+- Baddeley, A. D. (1963). A Zeigarnik-like effect in the recall of anagram solutions. *Quarterly Journal of Experimental Psychology*, 15(1), 63–64. https://doi.org/10.1080/17470216308416553 — *MOT-03*
+- Bansal, G. et al. (2019). Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance. HCOMP. DOI 10.1609/hcomp.v7i1.5285 — https://ojs.aaai.org/index.php/HCOMP/article/view/5285 — *SIS-02*
+- Benway, J. P., & Lane, D. M. (1998). Banner blindness: Web searchers often miss "obvious" links (publicación y cifras no verificadas). — *PER-06*
+- Bi, X., Li, Y. y Zhai, S. (2013). FFitts Law: Modeling Finger Touch with Fitts' Law. *CHI 2013*, 1363–1372. — *ACC-01*
+- Bireta, Surprenant & Neath (2008). *QJEP*, 61(3), 345–352. — *PER-07*
+- Bjork, R. A. & Whitten, W. B. (1974). Recency-sensitive retrieval processes in long-term free recall. *Cognitive Psychology*, 6(2), 173–189. https://doi.org/10.1016/0010-0285(74)90009-7 — *MEM-05*
+- Bonezzi, A., Brendl, C. M. y De Angelis, M. (2011). Stuck in the middle. *Psychological Science* [?: no verificado]. — *MOT-02*
+- Braden, R. (ed.) (1989). RFC 1122, Requirements for Internet Hosts (no releído). — *ACC-03*
+- Brooks, F. P. (1986). No Silver Bullet. (distinción esencial/accidental; vía secundarias) — *SIS-03*
+- Bryan, J. F. y Locke, E. A. (1967). Parkinson's law as a goal-setting phenomenon. *Organizational Behavior and Human Performance*, 2, 258–275. — *MOT-04*
+- Buell, R. W. y Norton, M. I. (2011). The Labor Illusion. *Management Science* (volumen y DOI no verificados). — *ACC-02*
+- Callahan, J., Hopkins, D., Weiser, M. y Shneiderman, B. (1988). An empirical comparison of pie vs. linear menus. *CHI '88*. doi:10.1145/57167.57182 — *ACC-01*
+- Card, S. K., Moran, T. P., & Newell, A. (1983). *The Psychology of Human-Computer Interaction*. Erlbaum. — *DEC-01*
+- Card, S. K., Robertson, G. G. y Mackinlay, J. D. (1991). The information visualizer, an information workspace. *CHI '91*, 181–186. doi:10.1145/108844.108874 — *ACC-02*
+- Carroll, J. M. (1990). *The Nurnberg Funnel: Designing Minimalist Instruction for Practical Computer Skill*. MIT Press. — *ACC-04*
+- Carroll, J. M. y Carrithers, C. (1984). Training wheels in a user interface. *Communications of the ACM*, 27(8), 800–806. — *ACC-04*
+- Carroll, J. M. y Rosson, M. B. (1987). Paradox of the active user. En J. M. Carroll (ed.), *Interfacing Thought: Cognitive Aspects of Human-Computer Interaction*. MIT Press (páginas no verificadas). — *ACC-04*
+- Catrambone, R. y Carroll, J. M. (1987). Learning a word processing system with training wheels and guided exploration. *CHI+GI '87*, 169–174. — *ACC-04*
+- Chase, W. G. & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81. https://doi.org/10.1016/0010-0285(73)90004-2 (contenido según la literatura conocida; texto no leído) — *MEM-04*
+- Chater (1996); Feldman; van der Helm (2014), *Simplicity in Vision* — vistos solo en resúmenes. — *PER-05*
+- Chernev, A., Böckenholt, U., & Goodman, J. (2015). Choice overload: A conceptual review and meta-analysis. *JCP*, 25(2), 333–358. https://doi.org/10.1016/j.jcps.2014.08.002 (verificado vía resumen) — *DEC-02*
+- Cherry (1953); Broadbent (1958); Treisman (1960); Deutsch & Deutsch (1963); Kahneman (1973); Mack & Rock (1998), *Inattentional Blindness* — conocimiento general vía Simply Psychology, no verificadas en original. — *PER-06*
+- Cleveland, W. S. & McGill, R. (1984), sobre percepción gráfica (no verificado). — *PER-05*
+- Cockburn, A., Gutwin, C., & Greenberg, S. (2007). A predictive model of menu performance. *CHI '07*, 627–636. — *DEC-01*
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114. https://doi.org/10.1017/S0140525X01003922 (texto no leído) — *MEM-03*
+- Cowan, N. (2010). The magical mystery four: How is working memory capacity limited, and why? *Current Directions in Psychological Science*, 19(1), 51–57. https://doi.org/10.1177/0963721409359277 (resumen leído) — *MEM-03*
+- Craik, K. J. W. (1943). *The Nature of Explanation*. Cambridge University Press. (vía secundarias) — *SIS-02*
+- Csíkszentmihályi, M. (1975). *Beyond Boredom and Anxiety*. Jossey-Bass. — *MOT-01*
+- Csíkszentmihályi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row. — *MOT-01*
+- de Jong, T. (2010). Cognitive load theory, educational research, and instructional design: some food for thought. *Instructional Science*, 38, 105–134. https://doi.org/10.1007/s11251-009-9110-0 — *MEM-01*
+- Do, A. M., Rupert, A. V. y Wolford, G. (2008). Evaluations of pleasurable experiences: The peak-end rule. *Psychonomic Bulletin & Review*, 15(1), 96–98. https://doi.org/10.3758/PBR.15.1.96 — *MOT-05*
+- Doherty, W. J. y Thadhani, A. J. (1982). *The Economic Value of Rapid Response Time*. IBM, GE20-0752-0. Transcripción: https://jlelliotton.blogspot.com/p/the-economic-value-of-rapid-response.html — *ACC-02*
+- Ebbinghaus, H. (1885). *Über das Gedächtnis* (no consultado). — *MEM-05*
+- Fabiani & Donchin (1995). *JEP: LMC*, 21(1), 224–240. — *PER-07*
+- Farris, H. H. & Revlin, R. (1989). Sensible reasoning in two tasks: Rule discovery and hypothesis evaluation. *Memory & Cognition*, 17(2). (vía secundarias) — *SIS-04*
+- Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. *J. Exp. Psychol.*, 47(6), 381–391. doi:10.1037/h0055392 — *ACC-01*
+- Fitts, P. M. y Peterson, J. R. (1964). Information capacity of discrete motor responses. *J. Exp. Psychol.*, 67(2), 103–112. doi:10.1037/h0045689 — *ACC-01*
+- Fredrickson, B. L. y Kahneman, D. (1993). Duration neglect in retrospective evaluations of affective episodes. *Journal of Personality and Social Psychology*, 65(1), 45–55. — *MOT-05*
+- Fu, W.-T. y Gray, W. D. (2004). Resolving the paradox of the active user: stable suboptimal performance in interactive tasks. *Cognitive Science* (volumen no verificado). — *ACC-04*
+- Ghibellini, R. y Meier, B. (2025). Interruption, recall and resumption: a meta-analysis of the Zeigarnik and Ovsiankina effects. *Humanities and Social Sciences Communications*, 12, 962. https://doi.org/10.1057/s41599-025-05000-w — *MOT-03*
+- Glanzer, M. & Cunitz, A. R. (1966). Two storage mechanisms in free recall. *Journal of Verbal Learning and Verbal Behavior*, 5(4), 351–360. https://doi.org/10.1016/S0022-5371(66)80044-0 — *MEM-05*
+- Gobet, F., Lane, P., Croker, S., Cheng, P. et al. (2001). Chunking mechanisms in human learning. *Trends in Cognitive Sciences*, 5(6), 236–243. https://doi.org/10.1016/S1364-6613(00)01662-4 — *MEM-04*
+- Green, K. C. & Armstrong, J. S. (2015). *Journal of Business Research*, 68, 1678–1685. https://repository.upenn.edu/marketing_papers/366 (vía resumen) — *SIS-04*
+- Guillermo de Ockham, comentario a las *Sentencias* (vía https://en.wikipedia.org/wiki/Occam%27s_razor). — *SIS-04*
+- Han, S., Humphreys, G. W. et al. (1999) (sólo resumen): https://www.neuroscience.ox.ac.uk/publications/311675 — *PER-04*
+- Han, S., Humphreys, G. W. y Chen, L. (1999) — agrupación por proximidad frente a conectividad (sólo resumen): https://www.neuroscience.ox.ac.uk/publications/311675 — *PER-01*
+- Harrison, C. et al. (2007). Rethinking the progress bar. *UIST '07*; Harrison, C., Yeo, Z. y Hudson, S. (2010). Faster Progress Bars. *CHI '10* (vía resúmenes). — *ACC-02*
+- Harrison, C., Amento, B., Kuznetsov, S. y Bell, R. (2007). Rethinking the progress bar. *UIST '07*, 115–118 (vía resumen). — *MOT-02, MOT-05*
+- Hart, S. G. & Staveland, L. E. (1988). Desarrollo del NASA-TLX. *Advances in Psychology*, 52, 139–183. https://doi.org/10.1016/S0166-4115(08)62386-9 — *MEM-01*
+- Hassenzahl, M., & Monk, A. (2010). The inference of perceived usability from beauty. *Human–Computer Interaction*, 25(3), 235–260. — *DEC-04*
+- Heathcote, A., Brown, S. & Mewhort, D. J. K. (2000). The power law repealed: The case for an exponential law of practice. *Psychonomic Bulletin & Review*, 7(2), 185–207. (consultado vía resumen) — *SIS-01*
+- Hick, W. E. (1952). On the rate of gain of information. *QJEP*, 4(1), 11–26. https://doi.org/10.1080/17470215208416600 — *DEC-01*
+- Hoffman, D. L. y Novak, T. P. (2009). Flow Online: Lessons Learned and Future Prospects. *Journal of Interactive Marketing*, 23(1), 23–34. — *MOT-01*
+- Hull, C. L. (1932). The goal-gradient hypothesis and maze learning. *Psychological Review* [?: volumen y páginas por confirmar]. — *MOT-02*
+- Hunt, R. R. (1995). The subtlety of distinctiveness: What von Restorff really did. *Psychonomic Bulletin & Review*, 2(1), 105–112. doi:10.3758/BF03214414 — *PER-07*
+- Hyman, R. (1953). Stimulus information as a determinant of reaction time. *J. Exp. Psychol.*, 45(3), 188–196. https://doi.org/10.1037/h0056940 — *DEC-01*
+- Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating. *JPSP*, 79(6), 995–1006. https://doi.org/10.1037/0022-3514.79.6.995 (no leído en texto completo) — *DEC-02*
+- Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? *Science*, 302, 1338–1339 (verificado vía secundarias). — *DEC-03*
+- Johnson-Laird, P. N. (1983). *Mental Models*. Cambridge University Press. (vía secundarias) — *SIS-02*
+- Jones, N. A., Ross, H., Lynam, T., Perez, P. & Leitch, A. (2011). Mental models: an interdisciplinary synthesis of theory and methods. *Ecology and Society*, 16(1), 46. https://www.jstor.org/stable/26268859 — *SIS-02*
+- Juran, J. M. (1975). The Non-Pareto Principle; Mea Culpa. *Quality Progress* (archivo del Juran Institute con fecha 1974): https://www.juran.com/wp-content/uploads/2021/03/The-Non-Pareto-Principle-1974.pdf (localizado, no leído directamente) — *SIS-05*
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux. — *DEC-03*
+- Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness. *Cognitive Psychology*, 3(3), 430–454. https://doi.org/10.1016/0010-0285(72)90016-3 — *DEC-03*
+- Kahneman, D., & Tversky, A. (1979). Prospect theory. *Econometrica*, 47(2), 263–291 (no verificado en esta revisión). — *DEC-03*
+- Kahneman, D., Fredrickson, B. L., Schreiber, C. A. y Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. *Psychological Science*, 4(6), 401–405. https://www.jstor.org/stable/40062570 — *MOT-05*
+- Kalyuga, S., Ayres, P., Chandler, P. & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist*, 38(1), 23–31. https://doi.org/10.1207/S15326985EP3801_4 — *MEM-01*
+- Karis, Fabiani & Donchin (1984). *Cognitive Psychology*, 16(2), 177–216. — *PER-07*
+- Kemp, Burt y Furneaux (2008). *Memory & Cognition* (vacaciones). — *MOT-05*
+- Keppel, G. & Underwood, B. J. (1962). Proactive inhibition in short-term retention of single items. *Journal of Verbal Learning and Verbal Behavior*, 1(3), 153–161. https://doi.org/10.1016/S0022-5371(62)80023-1 — *MEM-02*
+- Kimchi, R. (2000). *Vision Research* (sólo fragmento vía buscador): https://newiipdm.haifa.ac.il/wp-content/uploads/2015/05/Kimchi_2000_VisionResearch.pdf — *PER-04*
+- Kivetz, R., Urminsky, O. y Zheng, Y. (2006). The goal-gradient hypothesis resurrected: Purchase acceleration, illusionary goal progress, and customer retention. *Journal of Marketing Research*, 43(1), 39–58. — *MOT-02, MOT-03*
+- Koffka, K. (1935). *Principles of Gestalt Psychology* (no verificado). — *PER-05*
+- Koo, M. y Fishbach, A. (2012). The small-area hypothesis: Effects of progress monitoring on goal adherence. *Journal of Consumer Research*, 39(3), 493–509. — *MOT-02*
+- Kubovy, M. y van den Berg, M. (2008). *Psychological Review*, 115(1), 131–154. (No leído.) — *PER-02*
+- Kubovy, M. y van den Berg, M. (2008). The whole is equal to the sum of its parts: A probabilistic model of grouping by proximity and similarity in regular patterns. *Psychological Review*, 115(1), 131–154. (No leído.) — *PER-01*
+- Kubovy, M. y Wagemans, J. (1995). Grouping by proximity and multistability in dot lattices: A quantitative Gestalt theory. *Psychological Science*, 6(4), 225–234. (Sólo resumen consultado.) — *PER-01*
+- Kulesza, T. et al. (2012). CHI 2012. DOI 10.1145/2207676.2207678 — *SIS-02*
+- Kurosu, M., & Kashimura, K. (1995). Apparent usability vs. inherent usability. *CHI '95 Conference Companion*, 292–293. https://doi.org/10.1145/223355.223680 — *DEC-04*
+- Landauer, T. K., & Nachbar, D. W. (1985). Selection from alphabetic and numeric menu trees using a touch screen. *CHI '85*. https://doi.org/10.1145/317456.317470 — *DEC-01*
+- Larson, K., & Czerwinski, M. (1998). Web page design: Implications of memory, structure and scent for information retrieval. *CHI '98* (verificado vía resumen). — *DEC-01*
+- Lavie, N. (1995). Perceptual load as a necessary condition for selective attention. *JEP: Human Perception and Performance* (volumen/páginas no verificados). — *PER-06*
+- Lindgaard, G., Fernandes, G., Dudek, C., & Brown, J. (2006). *Behaviour & Information Technology*, 25(2) (no verificado en esta revisión). — *DEC-04*
+- Loftus, Loftus & Messo (1987). *Law and Human Behavior*, 11(1), 55–62. — *PER-07*
+- Luck, S. J. & Vogel, E. K. (1997). *Nature*, 390, 279–281. https://doi.org/10.1038/36846 — *MEM-03*
+- Ma, W. J., Husain, M. & Bays, P. M. (2014). *Nature Neuroscience*, 17(3), 347–356. https://doi.org/10.1038/nn.3655 — *MEM-03*
+- MacKenzie, I. S. (1992). Fitts' law as a research and design tool in human–computer interaction. *Human–Computer Interaction*, 7, 91–139. doi:10.1207/s15327051hci0701_3 — *ACC-01*
+- MacLeod, C. M. (2020). Zeigarnik and von Restorff: The memory effects and the stories behind them. *Memory & Cognition*, 48(6), 1073–1088. https://doi.org/10.3758/s13421-020-01033-5 — *MOT-03*
+- Mah y Bernstein (2019). *Journal of Applied Research in Memory and Cognition*. https://doi.org/10.1016/j.jarmac.2019.05.002 (no leído). — *MOT-05*
+- Mark, G., Gudith, D. y Klocke, U. (2008). The cost of interrupted work: more speed and stress. *CHI '08*, 107–110. https://doi.org/10.1145/1357054.1357072 — *MOT-01*
+- Masicampo, E. J. y Baumeister, R. F. (2011). Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. *Journal of Personality and Social Psychology*, 101(4), 667–683. https://doi.org/10.1037/a0024192 — *MOT-03*
+- Massimini, F., Csíkszentmihályi, M. y Carli, M. (1987). Modelo de ocho canales (*Experience Fluctuation Model*) (referencia no revisada directamente). — *MOT-01*
+- Mathur, A. et al. (2019). Dark Patterns at Scale. *Proc. ACM HCI*, 3(CSCW), art. 81. https://arxiv.org/abs/1907.07032 — *DEC-01*
+- Mathur, A. et al. (2019). Dark Patterns at Scale. *Proceedings of the ACM on Human-Computer Interaction* (CSCW) (no releído). — *MOT-04*
+- Mathur, A., et al. (2019). Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. *Proc. ACM HCI*, 3(CSCW), art. 81. https://arxiv.org/abs/1907.07032 — *DEC-03*
+- Mathy, F. & Feldman, J. (2012). What's magic about magic numbers? Chunking and data compression in short-term memory. *Cognition*, 122(3), 346–362. https://doi.org/10.1016/j.cognition.2011.11.003 — *MEM-03, MEM-04*
+- Mayer, R. E. & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. *Educational Psychologist*, 38(1), 43–52. https://doi.org/10.1207/S15326985EP3801_6 — *MEM-01*
+- Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97. https://doi.org/10.1037/h0043158 (texto: https://psychclassics.yorku.ca/Miller/) — *MEM-03, MEM-04*
+- Miller, G. A. (1994). Reimpresión. *Psychological Review*, 101(2), 343–352. https://doi.org/10.1037/0033-295X.101.2.343 — *MEM-03*
+- Miller, R. B. (1968). Response time in man-computer conversational transactions. *AFIPS FJCC*, 33, 267–277. doi:10.1145/1476589.1476628 (escaneo no legible; contenido vía citas) — *ACC-02*
+- Milosavljevic, Navalpakkam, Koch & Rangel (2012). *Journal of Consumer Psychology*, 22(1), 67–74. — *PER-07*
+- Miron-Shatz (2009). *Emotion* (evaluación de días completos). — *MOT-05*
+- Murdock, B. B. (1962). The serial position effect of free recall. *Journal of Experimental Psychology*, 64(5), 482–488. https://doi.org/10.1037/h0045106 — *MEM-05*
+- Myers, B. A. (1985). The importance of percent-done progress indicators for computer-human interfaces. *CHI '85*. https://www.cs.cmu.edu/~bam/papers/percentdoneCHI85.pdf — *ACC-02, MOT-02*
+- Newell, A. & Rosenbloom, P. S. (1981). Mechanisms of skill acquisition and the law of practice. En J. R. Anderson (Ed.), *Cognitive Skills and Their Acquisition* (pp. 1–55). Erlbaum. — *SIS-01*
+- Nielsen, J. (1993). *Usability Engineering*, cap. 5. Academic Press. — *ACC-02*
+- Nielsen, J. (1996, act. 2011). Top 10 Mistakes in Web Design. NN/g. https://www.nngroup.com/articles/top-10-mistakes-web-design/ — *SIS-01*
+- Nielsen, J. (2000). End of Web Design. NN/g. https://www.nngroup.com/articles/end-of-web-design/ — *SIS-01*
+- Nielsen, J. (2017). Jakob's Law of Internet User Experience (vídeo). NN/g. https://www.nngroup.com/videos/jakobs-law-internet-ux/ — *SIS-01*
+- Norman, D. A. (1983). Some observations on mental models. En D. Gentner & A. L. Stevens (Eds.), *Mental Models*. Erlbaum. (páginas no verificadas) — *SIS-02*
+- Norman, D. A. (1988/2013). *The Design of Everyday Things*. — *SIS-02*
+- Norman, D. A. (2004). *Emotional Design*. Basic Books. — *DEC-04*
+- Nunes, J. C. y Drèze, X. (2006). The endowed progress effect. *Journal of Consumer Research*, 32(4), 504–512. https://doi.org/10.1086/500480 — *MOT-03*
+- Nunes, J. C. y Drèze, X. (2006). The endowed progress effect: How artificial advancement increases effort. *Journal of Consumer Research*, 32(4), 504–512. https://doi.org/10.1086/500480 — *MOT-02*
+- Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A. et al. (2018). Benchmarks for models of short-term and working memory. *Psychological Bulletin*, 144(9), 885–958. https://doi.org/10.1037/bul0000153 — *MEM-02*
+- Ovsiankina, M. A. (1928). Untersuchungen zur Handlungs- und Affektpsychologie. *Psychologische Forschung*, 11, 302–379. https://doi.org/10.1007/bf00410261 — *MOT-03*
+- Paas, F. (1992). *Journal of Educational Psychology*, 84(4), 429–434. https://doi.org/10.1037/0022-0663.84.4.429 — *MEM-01*
+- Palmer, S. E. (1992). Common region: A new principle of perceptual grouping. *Cognitive Psychology*, 24(3), 436–447 (paginación por confirmar; DOI no verificado). PubMed: https://pubmed.ncbi.nlm.nih.gov/1516361/ (no accesible en la consulta; resumen vía buscador). — *PER-03*
+- Palmer, S. E. y Rock, I. (1994). Rethinking perceptual organization: The role of uniform connectedness. *Psychonomic Bulletin & Review*, 1(1), 29–55. doi:10.3758/BF03200760 — *PER-04*
+- Pareto, V. (1896–1897). *Cours d'économie politique*. Lausana. (vía secundarias) — *SIS-05*
+- Parhi, P., Karlson, A. y Bederson, B. (2006). Target size study for one-handed thumb use on small touchscreen devices. *MobileHCI '06*, 203–210. doi:10.1145/1152215.1152260 — *ACC-01*
+- Parkinson, C. N. (1955, 19 de noviembre). Parkinson's Law. *The Economist* (texto original no leído). — *MOT-04*
+- Parkinson, C. N. (1957/1958). *Parkinson's Law: The Pursuit of Progress*. Houghton Mifflin / John Murray. — *MOT-04*
+- Peterson, L. R. & Peterson, M. J. (1959). Short-term retention of individual verbal items. *Journal of Experimental Psychology*, 58(3), 193–198. https://doi.org/10.1037/h0049234 — *MEM-02*
+- Peterson, M. A. (1994), comentario en *Psychonomic Bulletin & Review* (sólo título y resumen vía buscador; atribución de este enlace a Peterson no verificada): https://experts.arizona.edu/en/publications/the-proper-placement-of-uniform-connectedness/ — *PER-04*
+- Polman, E. (2012). *JPSP* (vía Wikipedia). — *DEC-02*
+- Postel, J. (ed.) (1980). RFC 760, DoD Standard Internet Protocol: https://www.rfc-editor.org/rfc/rfc760.html — *ACC-03*
+- Postel, J. (ed.) (1980). RFC 761, DoD Standard Transmission Control Protocol: https://www.rfc-editor.org/rfc/rfc761.html — *ACC-03*
+- Punch, J. (1639), comentario a Duns Escoto (vía Wikipedia). — *SIS-04*
+- Redelmeier, D. A. y Kahneman, D. (1996). Patients' memories of painful medical treatments: Real-time and retrospective evaluations of two minimally invasive procedures. *Pain*, 66(1), 3–8. — *MOT-05*
+- Redelmeier, D. A., Katz, J. y Kahneman, D. (2003). Memories of colonoscopy: A randomized trial. *Pain*, 104(1–2), 187–194. — *MOT-05*
+- Rensink, R. A. (2002). Change detection. *Annual Review of Psychology*, 53, 245–277 (citada por NN/g). — *PER-06*
+- Rensink, R. A., O'Regan, J. K., & Clark, J. J. (1997). To see or not to see: The need for attention to perceive changes in scenes. *Psychological Science*, 8, 368–373. — *PER-06*
+- Resto de orígenes de la tabla (†): citas de conocimiento general, pendientes de verificación. — *DEC-03*
+- Rose, M. (2001). RFC 3117 (no releído). — *ACC-03*
+- Rundus, D. (1971). Analysis of rehearsal processes in free recall. *Journal of Experimental Psychology*, 89(1), 63–77. https://doi.org/10.1037/h0031185 — *MEM-05*
+- Saffer, D. (2006; 2.ª ed. 2010). *Designing for Interaction*. New Riders. (no consultado directamente) — *SIS-03*
+- Saint-Exupéry, A. de (1939). *Terre des hommes*. (capítulo no verificado) — *SIS-04*
+- Sauro, J. (2012). Applying the Pareto Principle to the User Experience. MeasuringU. https://measuringu.com/pareto-ux/ — *SIS-05*
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). Can there ever be too many options? A meta-analytic review of choice overload. *JCR*, 37(3), 409–425. https://doi.org/10.1086/651235 (verificado vía resumen) — *DEC-02*
+- Schwartz, B. (2004). *The Paradox of Choice: Why More Is Less*. Ecco. — *DEC-02*
+- Seow, S. C. (2005). Information theoretic models of HCI: A comparison of the Hick-Hyman law and Fitts' law. *Human-Computer Interaction*, 20(3), 315–352. — *DEC-01*
+- Shah, A. M., & Wolford, G. (2007). *Psychological Science* (vía Wikipedia). — *DEC-02*
+- Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, 28, 1059–1074. doi:10.1068/p281059 — *PER-06*
+- Simons, D. J., & Levin, D. T. (1998). Failure to detect changes to people during a real-world interaction. *Psychonomic Bulletin & Review*, 5(4), 644–649. — *PER-06*
+- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285. https://doi.org/10.1207/s15516709cog1202_4 — *MEM-01*
+- Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. *Educational Psychology Review*, 22(2), 123–138. https://doi.org/10.1007/s10648-010-9128-5 — *MEM-01*
+- Sweller, J., van Merriënboer, J. J. G. & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review*, 10(3), 251–296. https://doi.org/10.1023/A:1022193728205 — *MEM-01*
+- Sweller, J., van Merriënboer, J. J. G. & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review*, 31(2), 261–292. https://doi.org/10.1007/s10648-019-09465-5 (texto completo no consultado) — *MEM-01*
+- Tesler, L. Computing history (web personal). https://www.nomodes.com/computing-history — *SIS-03*
+- Thaler, R., & Sunstein, C. (2008). *Nudge*. Yale University Press. — *DEC-03*
+- Thomson, M. y Schinazi, D. (2023). RFC 9413, Maintaining Robust Protocols: https://www.rfc-editor.org/rfc/rfc9413.html — *ACC-03*
+- Toffler, A. (1970). *Future Shock*. Random House. — *DEC-02*
+- Tognazzini, B. (1998). The Complexity Paradox. AskTog. https://asktog.com/columns/011complexity.html — *SIS-03*
+- Townsend, C., & Kahn, B. E. (2014). *JCR* (vía Wikipedia). — *DEC-02*
+- Tractinsky, N. (1997). Aesthetics and apparent usability: Empirically assessing cultural and methodological issues. *CHI '97*. — *DEC-04*
+- Tractinsky, N., Katz, A. S., & Ikar, D. (2000). What is beautiful is usable. *Interacting with Computers*, 13(2), 127–145. https://doi.org/10.1016/S0953-5438(00)00031-X — *DEC-04*
+- Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology* (volumen/páginas no verificados). — *PER-07*
+- Treisman, A. y Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*. (Volumen y páginas no verificados.) — *PER-02*
+- Tuch, A. N., Roth, S. P., Hornbæk, K., Opwis, K., & Bargas-Avila, J. A. (2012). Is beautiful really usable? *Computers in Human Behavior*, 28(5), 1596–1607. — *DEC-04*
+- Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. https://doi.org/10.1126/science.185.4157.1124 — *DEC-03*
+- Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science*, 211(4481), 453–458 (no verificado en esta revisión). — *DEC-03*
+- von Restorff, H. (1933). Über die Wirkung von Bereichsbildungen im Spurenfeld. *Psychologische Forschung*, 18(1), 299–342. doi:10.1007/BF02409636 — *PER-07*
+- W3C (2023). WCAG 2.2 Understanding 2.5.8 y 2.5.5: https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html · https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html — *ACC-01*
+- W3C. Understanding SC 1.4.1 Use of Color (WCAG 2.2): https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html — *PER-02*
+- W3C. WCAG 2.2 Understanding 3.3.3 Error Suggestion: https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html — *ACC-03*
+- Wagemans, J. et al. (2012). *Psychological Bulletin*, 138(6), 1172–1217. doi:10.1037/a0029333 — *PER-04*
+- Wagemans, J. et al. (2012). A century of Gestalt psychology in visual perception: I. *Psychological Bulletin*, 138(6), 1172–1217. doi:10.1037/a0029333 — *PER-01, PER-03*
+- Wagemans, J., Elder, J. H., Kubovy, M., Palmer, S. E., Peterson, M. A., Singh, M., & von der Heydt, R. (2012). A century of Gestalt psychology in visual perception: I. *Psychological Bulletin*, 138(6), 1172–1217. doi:10.1037/a0029333 — y parte II (Wagemans, Feldman, Gepshtein, Kimchi et al., 2012). — *PER-05*
+- Wallace, W. P. (1965). *Psychological Bulletin*, 63(6), 410–424. doi:10.1037/h0022001 — *PER-07*
+- Webster, J., Trevino, L. K. y Ryan, L. (1993). The dimensionality and correlates of flow in human-computer interactions. *Computers in Human Behavior*, 9(4), 411–426. — *MOT-01*
+- Wertheimer, M. (1923). Untersuchungen zur Lehre von der Gestalt II. *Psychologische Forschung*, 4, 301–350. Traducción: "Laws of organization in perceptual forms", en Ellis (ed., 1938). https://www.yorku.ca/pclassic/Wertheimer/Forms/forms.htm — *PER-01, PER-02, PER-05*
+- Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen. *Psychologische Forschung*, 9, 1–85. — *MOT-03*
+
+180 referencias.

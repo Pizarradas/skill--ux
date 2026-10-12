@@ -1,0 +1,1569 @@
+{
+  "aristas": [
+    {
+      "de": "ACC-01",
+      "a": "PER-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-01",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-01",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-01",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-01",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "PER-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-01",
+      "a": "MEM-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-02",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-02",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-02",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-02",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-02",
+      "a": "ACC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-02",
+      "a": "MOT-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-02",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-02",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-03",
+      "a": "SIS-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "ACC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "MOT-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-03",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-03",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-04",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "SIS-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "ACC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "ACC-04",
+      "a": "MOT-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-04",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-04",
+      "a": "SIS-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "ACC-04",
+      "a": "PER-06",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-01",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "SIS-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "ACC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-01",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-01",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-01",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-02",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "DEC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "SIS-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-02",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-02",
+      "a": "ACC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-02",
+      "a": "SIS-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MEM-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "DEC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-03",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-03",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-04",
+      "a": "DEC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "PER-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "PER-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "PER-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "DEC-04",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-04",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-04",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "DEC-04",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-01",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "MEM-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "SIS-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-01",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-01",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-01",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-02",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "MEM-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "SIS-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-02",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-03",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "SIS-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-03",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-03",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-04",
+      "a": "MEM-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "PER-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "PER-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "PER-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-04",
+      "a": "ACC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-04",
+      "a": "MOT-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-04",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-05",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-05",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-05",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-05",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MEM-05",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-05",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-05",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MEM-05",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-01",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "ACC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-01",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-01",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-01",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-01",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-01",
+      "a": "MOT-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-02",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "MOT-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-02",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-02",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-02",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-02",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "MOT-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-03",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-03",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "SIS-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "ACC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-04",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MOT-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "ACC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MEM-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-04",
+      "a": "MOT-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-05",
+      "a": "DEC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "MEM-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "DEC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "MOT-05",
+      "a": "MOT-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "MOT-05",
+      "a": "MOT-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-01",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "ACC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "DEC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-01",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-01",
+      "a": "PER-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-01",
+      "a": "PER-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-01",
+      "a": "PER-06",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-01",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-02",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-02",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-02",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-02",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-02",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-02",
+      "a": "PER-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-02",
+      "a": "PER-06",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-02",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-03",
+      "a": "PER-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-03",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-03",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-03",
+      "a": "PER-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-03",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-03",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-03",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-03",
+      "a": "PER-06",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-04",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-04",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-04",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-04",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-04",
+      "a": "PER-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-04",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-04",
+      "a": "MEM-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-04",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-05",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "DEC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "PER-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-05",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-05",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-05",
+      "a": "SIS-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-05",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-06",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "PER-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "MOT-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "MOT-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-06",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-06",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-06",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-06",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-06",
+      "a": "ACC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "PER-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-07",
+      "a": "MEM-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-07",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-07",
+      "a": "MOT-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-07",
+      "a": "ACC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "PER-07",
+      "a": "PER-06",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "PER-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "PER-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "DEC-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "DEC-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "PER-07",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-01",
+      "a": "SIS-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "ACC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "ACC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-01",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-01",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-01",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-01",
+      "a": "MOT-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-01",
+      "a": "MEM-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-02",
+      "a": "SIS-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "MEM-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "MEM-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "ACC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "PER-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "PER-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-02",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-02",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-02",
+      "a": "DEC-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-02",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-03",
+      "a": "ACC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "ACC-03",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "ACC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-03",
+      "a": "SIS-04",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-03",
+      "a": "SIS-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-03",
+      "a": "SIS-05",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-04",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "MEM-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "PER-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "PER-06",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "SIS-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "DEC-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-04",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-04",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-04",
+      "a": "SIS-02",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-04",
+      "a": "PER-07",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-04",
+      "a": "ACC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-05",
+      "a": "SIS-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "DEC-01",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "DEC-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "MEM-05",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "PER-07",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "MOT-02",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "MOT-04",
+      "tipo": "refuerza"
+    },
+    {
+      "de": "SIS-05",
+      "a": "SIS-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-05",
+      "a": "ACC-03",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-05",
+      "a": "SIS-01",
+      "tipo": "tensiona"
+    },
+    {
+      "de": "SIS-05",
+      "a": "DEC-03",
+      "tipo": "tensiona"
+    }
+  ]
+}
